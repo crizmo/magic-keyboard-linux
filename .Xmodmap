@@ -1,2 +1,5 @@
 keycode 130 = Henkan
 keycode 131 = Muhenkan
+keycode 76 = XF86AudioLowerVolume
+keycode 95 = XF86AudioRaiseVolume
+keycode 96 = F12
