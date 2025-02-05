@@ -176,8 +176,3 @@ To easily switch between the **Magic Keyboard layout** and a **basic keyboard la
 - **IBus Documentation**: [IBus Official Site](https://ibus.github.io/)
 - **Mozc Documentation**: [Mozc GitHub](https://github.com/google/mozc)
 
----
-
-Feel free to use this guide as a reference and share it on GitHub. This will make it easy to set up and configure your Magic Keyboard on Linux and keep your key mappings working smoothly.
-
-Let me know if you'd like to add anything else or need further clarification! 😊
