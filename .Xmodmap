@@ -3,3 +3,11 @@ keycode 131 = Muhenkan
 keycode 76 = XF86AudioLowerVolume
 keycode 95 = XF86AudioRaiseVolume
 keycode 96 = F12
+keycode 37 = Alt_L
+keycode 64 = Control_L
+
+clear control
+clear mod1
+
+add control = Control_L Control_R
+add mod1 = Alt_L Alt_R
