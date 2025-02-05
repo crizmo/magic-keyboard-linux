@@ -5,6 +5,7 @@ keycode 95 = XF86AudioRaiseVolume
 keycode 96 = F12
 keycode 37 = Alt_L
 keycode 64 = Control_L
+keycode 66 = Caps_Lock
 
 clear control
 clear mod1
