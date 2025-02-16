@@ -3,8 +3,8 @@ keycode 131 = Muhenkan
 keycode 76 = XF86AudioLowerVolume
 keycode 95 = XF86AudioRaiseVolume
 keycode 96 = F12
-keycode 64 = Alt_L
-keycode 37 = Control_L
+keycode 37 = Alt_L
+keycode 64 = Control_L
 keycode 66 = Caps_Lock
 keycode 19 = 0 underscore
 
